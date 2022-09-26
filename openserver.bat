@@ -1,1 +1,0 @@
-python -m http.server --directory "C:\Users\Nico\Desktop\map"
