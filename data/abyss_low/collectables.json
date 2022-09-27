@@ -1,0 +1,96 @@
+[
+  {
+    "color": "green",
+    "collectable": true,
+    "key": "normal_mobs",
+    "locations": [
+      {
+        "key": "brigade_general_akius_1",
+        "x": -24.22089397,
+        "y": 33.38624514
+      },
+      {
+        "key": "highmage_nobris_2",
+        "x": -24.576159,
+        "y": 33.6883409
+      },
+      {
+        "key": "captain_semund_3",
+        "x": -24.91966713,
+        "y": 33.73878753
+      },
+      {
+        "key": "general_luhut_4",
+        "x": -25.32596004,
+        "y": 33.24940669
+      },
+      {
+        "key": "lumion_5",
+        "x": -25.64425718,
+        "y": 33.79740477
+      },
+      {
+        "key": "deputy_lohan_6",
+        "x": -25.99148595,
+        "y": 33.1094234
+      },
+      {
+        "key": "deputy_lagel_7",
+        "x": -26.3764174,
+        "y": 33.24725711
+      },
+      {
+        "key": "highmage_pasau_8",
+        "x": -26.47693503,
+        "y": 33.59809958
+      },
+      {
+        "key": "imperturbable_kamon_9",
+        "x": -34.58984375,
+        "y": 35.3310546875
+      },
+      {
+        "key": "imperturbable_kamon_10",
+        "x": -37.00439453125,
+        "y": 33.52294921875
+      },
+      {
+        "key": "the_everwatcher_11",
+        "x": -7.32917088085938,
+        "y": 11.5580112895508
+      }
+    ]
+  },
+  {
+    "color": "yellow",
+    "collectable": true,
+    "key": "elite_mobs",
+    "locations": [
+      {
+        "key": "neved_the_forgotten_1",
+        "x": -35.43212890625,
+        "y": 24.92041015625
+      },
+      {
+        "key": "neved_the_forgotten_2",
+        "x": -34.17431640625,
+        "y": 23.90966796875
+      },
+      {
+        "key": "neved_the_forgotten_3",
+        "x": -36.2307040673828,
+        "y": 22.2072731279297
+      },
+      {
+        "key": "neved_the_forgotten_4",
+        "x": -37.3706185786133,
+        "y": 24.1786508574219
+      },
+      {
+        "key": "team_leader_lahu_5",
+        "x": -11.7485289594727,
+        "y": 19.5030922299805
+      }
+    ]
+  }
+]

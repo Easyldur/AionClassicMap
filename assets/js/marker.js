@@ -13,9 +13,10 @@ class Marker {
                 case 'elite_mobs':
                 case 'heroic_mobs':
                 case 'legendary_mobs':
-                    return Language.get(`map.${this.category}.${this.text}.name`);
                 case 'essencetaping':
                 case 'aethertaping':
+                    return Language.get(`map.${this.category}.${this.text}.name`);
+                case 'prout':
                     return Language.get(`map.${this.category}.${this.subdata}.name`);
                 default:
                     return Language.get(`map.${this.category}.name`);
@@ -27,9 +28,10 @@ class Marker {
                 case 'elite_mobs':
                 case 'heroic_mobs':
                 case 'legendary_mobs':
-                    return Language.get(`map.${this.category}.${this.text}.desc`);
                 case 'essencetaping':
                 case 'aethertaping':
+                    return Language.get(`map.${this.category}.${this.text}.desc`);
+                case 'prout':
                     return Language.get(`map.${this.category}.${this.subdata}.desc`);
                 default:
                     return Language.get(`map.${this.category}.desc`);

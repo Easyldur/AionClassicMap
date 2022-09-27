@@ -1,0 +1,24 @@
+[
+  {
+    "color": "green",
+    "collectable": true,
+    "key": "normal_mobs",
+    "locations": [
+      {
+        "key": "hulker_1",
+        "x": -11.64504789,
+        "y": 30.1679181554546
+      },
+      {
+        "key": "hammerhoof_2",
+        "x": -24.9388995818182,
+        "y": 30.8473921427273
+      },
+      {
+        "key": "rusty_threehands_3",
+        "x": -11.9782712,
+        "y": 22.5210741154545
+      }
+    ]
+  }
+]

@@ -47,8 +47,11 @@ class Loader {
   }
 }
 
-const urls = [
-  'data/locations.json',
-  'data/collectables.json'
+var urls = [
+  'data/placeholder/locations.json',
+  'data/placeholder/collectables.json'
 ];
+var path = window.location.pathname;
+var page = path.split("/").pop().split(".").shift();
+for (var i = 0; i < urls.length; i++) { urls[i] = urls[i].replace("placeholder",page); }
 Loader.init(urls);

@@ -1,0 +1,26 @@
+[
+  {
+    "color": "yellow",
+    "collectable": true,
+    "key": "elite_mobs",
+    "locations": [
+      {
+        "key": "flame_tear_brerkun_1",
+        "x": -23.9815062338867,
+        "y": 24.4272922226563
+      }
+    ]
+  },
+  {
+    "color": "black",
+    "collectable": true,
+    "key": "legendary_mobs",
+    "locations": [
+      {
+        "key": "menotios_1",
+        "x": -21.6034873701172,
+        "y": 22.7014219736328
+      }
+    ]
+  }
+]

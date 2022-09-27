@@ -1,0 +1,73 @@
+[
+  {
+    "color": "green",
+    "collectable": true,
+    "key": "normal_mobs",
+    "locations": [
+      {
+        "key": "purehorn_1",
+        "x": -10.9340149443359,
+        "y": 31.2249968027344
+      },
+      {
+        "key": "purehorn_2",
+        "x": -5.43287051953125,
+        "y": 31.4588214174805
+      }
+    ]
+  },
+  {
+    "color": "yellow",
+    "collectable": true,
+    "key": "elite_mobs",
+    "locations": [
+      {
+        "key": "ragerock_1",
+        "x": -30.4364813564453,
+        "y": 7.54942351904297
+      },
+      {
+        "key": "poor_poevius_2",
+        "x": -32.6086777460937,
+        "y": 17.1294972949219
+      },
+      {
+        "key": "merciless_ryugrad_3",
+        "x": -34.2249357675781,
+        "y": 12.6686624335938
+      },
+      {
+        "key": "anduha_the_greedy_4",
+        "x": -6.96407646142578,
+        "y": 23.3694813212891
+      },
+      {
+        "key": "anduha_the_greedy_5",
+        "x": -6.99543184033203,
+        "y": 22.8633671972656
+      }
+    ]
+  },
+  {
+    "color": "red",
+    "collectable": true,
+    "key": "heroic_mobs",
+    "locations": [
+      {
+        "key": "queen_klawtinel_1",
+        "x": -27.6313509990234,
+        "y": 16.4154165981445
+      },
+      {
+        "key": "henchman_ladun_2",
+        "x": -23.9894547441406,
+        "y": 27.9688874428711
+      },
+      {
+        "key": "captain_lahbri_3",
+        "x": -16.878643269043,
+        "y": 22.6902792485352
+      }
+    ]
+  }
+]

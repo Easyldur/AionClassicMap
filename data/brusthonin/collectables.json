@@ -1,0 +1,93 @@
+[
+  {
+    "color": "green",
+    "collectable": true,
+    "key": "normal_mobs",
+    "locations": [
+      {
+        "key": "ripened_frightcorn_1",
+        "x": -40.5377990449219,
+        "y": 28.0429301217448
+      },
+      {
+        "key": "bakun_the_zombified_2",
+        "x": -30.8054463007813,
+        "y": 31.3158550234375
+      },
+      {
+        "key": "botanist_aello_3",
+        "x": -41.4924144791667,
+        "y": 19.3272894277344
+      },
+      {
+        "key": "healer_kanar's_ghost_4",
+        "x": -15.80126953125,
+        "y": 37.4605665136719
+      },
+      {
+        "key": "thorn_beard_latulatu_5",
+        "x": -23.1845514759115,
+        "y": 13.9343329674479
+      },
+      {
+        "key": "vengeful_narka_6",
+        "x": -27.0650513105469,
+        "y": 43.3022198665365
+      },
+      {
+        "key": "rusty_scale_shalba_7",
+        "x": -35.632793110026,
+        "y": 43.4808325807292
+      },
+      {
+        "key": "ranger_agueria_8",
+        "x": -4.43722555598958,
+        "y": 35.4922623613281
+      },
+      {
+        "key": "ranger_agueria_9",
+        "x": -10.8748472871094,
+        "y": 29.4385352174479
+      },
+      {
+        "key": "ranger_agueria_10",
+        "x": -2.45270769140625,
+        "y": 25.8417582467448
+      }
+    ]
+  },
+  {
+    "color": "yellow",
+    "collectable": true,
+    "key": "elite_mobs",
+    "locations": [
+      {
+        "key": "farmer_havenjark_1",
+        "x": -28.6415795423177,
+        "y": 34.7082206471354
+      },
+      {
+        "key": "chief_mate_devahanson_2",
+        "x": -3.46440951497396,
+        "y": 1.40373125325521
+      },
+      {
+        "key": "elder_kitarpa_3",
+        "x": -12.1643716061198,
+        "y": 44.301000436849
+      }
+    ]
+  },
+  {
+    "color": "red",
+    "collectable": true,
+    "key": "heroic_mobs",
+    "locations": [
+      {
+        "key": "unfaithful_ntuamu_1",
+        "x": -27.4633180227865,
+        "y": 13.2843586276042
+      }
+    ]
+  }
+]
