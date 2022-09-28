@@ -97,6 +97,13 @@ const MapBase = {
             layers: [mapLayers[this.themeOverride || Settings.baseLayer]],
         }).setView([this.viewportX, this.viewportY], this.viewportZoom);
 
+        MapBase.map.addControl(
+            L.control.attribution({
+                position: 'bottomright',
+                prefix: 'Wanna help me? Send me missing or wrong data on Discord. CrozifletteMagique#9263',
+            })
+        );
+
         L.control.zoom({
             position: 'bottomright',
         }).addTo(MapBase.map);
