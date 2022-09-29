@@ -1,4 +1,4 @@
-# Aion Classic Map ([website](easyldur.github.io/AionClassicMap/))
+# Aion Classic Map ([website](https://easyldur.github.io/AionClassicMap/))
 
 
 
