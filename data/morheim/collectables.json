@@ -1,5 +1,57 @@
 [
   {
+    "color": "blue",
+    "collectable": true,
+    "key": "worth_for_money_mobs",
+    "locations": [
+      {
+        "key": "brutal_mist_mane_curate_52",
+        "x": -44.8137269036458,
+        "y": 8.5631794140625
+      },
+      {
+        "key": "brutal_mist_mane_curate_53",
+        "x": -39.6977109876302,
+        "y": 10.3140751080729
+      },
+      {
+        "key": "brutal_mist_mane_curate_54",
+        "x": -42.9643297265625,
+        "y": 12.5396271927083
+      },
+      {
+        "key": "brutal_mist_mane_curate_55",
+        "x": -43.5594568229167,
+        "y": 9.41241871614583
+      },
+      {
+        "key": "brutal_mist_mane_curate_56",
+        "x": -39.9769226770833,
+        "y": 5.21539294140625
+      },
+      {
+        "key": "brutal_mist_mane_curate_57",
+        "x": -36.7505830175781,
+        "y": 6.98911378450521
+      },
+      {
+        "key": "brutal_mist_mane_warlock_58",
+        "x": -37.7637160670573,
+        "y": 9.50430512369792
+      },
+      {
+        "key": "brutal_mist_mane_warlock_59",
+        "x": -43.0324473411458,
+        "y": 10.6413919114583
+      },
+      {
+        "key": "brutal_mist_mane_warlock_60",
+        "x": -40.0049257311198,
+        "y": 7.18058971289063
+      }
+    ]
+  },
+  {
     "color": "green",
     "collectable": true,
     "key": "normal_mobs",
@@ -16,8 +68,28 @@
       },
       {
         "key": "captain_subaku_3",
-        "x": -13.2118230214844,
-        "y": 26.6307352428385
+        "x": -16.44140625,
+        "y": 25.8450520833333
+      },
+      {
+        "key": "captain_subaku_3",
+        "x": -15.4680989583333,
+        "y": 29.0944010416667
+      },
+      {
+        "key": "captain_subaku_3",
+        "x": -13.2819010416667,
+        "y": 26.728515625
+      },
+      {
+        "key": "captain_subaku_3",
+        "x": -14.0305989583333,
+        "y": 27.8365885416667
+      },
+      {
+        "key": "captain_subaku_3",
+        "x": -14.6595052083333,
+        "y": 28.5553385416667
       },
       {
         "key": "weeping_bigalia_4",
@@ -217,6 +289,11 @@
         "y": 20.1040269498698
       },
       {
+        "key": "vaelath_29",
+        "x": -41.7664057376302,
+        "y": 42.8106236464844
+      },
+      {
         "key": "sentinel_ulika_25",
         "x": -25.9681339329427,
         "y": 20.1973436699219
@@ -337,11 +414,16 @@
         "key": "frostmane_lestin_7",
         "x": -38.5777715084635,
         "y": 3.52595773958333
+      },
+      {
+        "key": "chieftain_muhamurru_7",
+        "x": -39.4114583333333,
+        "y": 5.13606770833333
       }
     ]
   },
   {
-    "color": "black",
+    "color": "purple",
     "collectable": true,
     "key": "legendary_mobs",
     "locations": [

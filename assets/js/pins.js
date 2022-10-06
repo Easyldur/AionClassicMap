@@ -32,7 +32,7 @@ class Pin {
     `);
 
         if (Settings.isPinsEditingEnabled) {
-            const markerIcons = ['heroic_mobs', 'normal_mobs', 'elite_mobs', 'legendary_mobs', 'bribe', 'challanges', 'garages', 'health', 'hidden_packages', 'pin', 'pins', 'rampage', 'safehouses', 'unique_stunt', 'uzi', 'aria', 'small_vortex', 'inina', 'cypri', 'mela', 'iron', 'kukuru', 'ruko', 'betua_log', 'silver', 'rose_quartz', 'targena', 'rubus', 'liguri', 'crystal', 'modida', 'dado', 'amethyst', 'venera', 'caprauna', 'afari', 'big_vortex', 'small_vortex1', 'small_vortex1', 'small_vortex25', 'small_vortex50', 'small_vortex75', 'big_vortex100'];
+            const markerIcons = ['heroic_mobs', 'normal_mobs', 'elite_mobs','worth_for_money_mobs', 'legendary_mobs', 'pin', 'pins', 'rampage', 'safehouses', 'unique_stunt', 'uzi', 'aria', 'small_vortex', 'inina', 'cypri', 'mela', 'iron', 'kukuru', 'ruko', 'betua_log', 'silver', 'rose_quartz', 'targena', 'rubus', 'liguri', 'crystal', 'modida', 'dado', 'amethyst', 'venera', 'caprauna', 'afari', 'big_vortex', 'small_vortex1', 'small_vortex1', 'small_vortex25', 'small_vortex50', 'small_vortex75', 'big_vortex100'];
             const markerColors = ['aquagreen', 'beige', 'black', 'blue', 'brown', 'cadetblue', 'darkblue', 'darkgreen', 'darkorange', 'darkpurple', 'darkred', 'gray', 'green', 'lightblue', 'lightgray', 'lightgreen', 'lightorange', 'lightred', 'orange', 'pink', 'purple', 'red', 'white', 'yellow'];
             const markerIconSelect = $('<select>').attr('id', `${this.id}_icon`).addClass('marker-popup-pin-input-icon');
             const markerColorSelect = $('<select>').attr('id', `${this.id}_color`).addClass('marker-popup-pin-input-color');

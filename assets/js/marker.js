@@ -12,6 +12,7 @@ class Marker {
                 case 'normal_mobs':
                 case 'elite_mobs':
                 case 'heroic_mobs':
+                case 'worth_for_money_mobs':
                 case 'legendary_mobs':
                 case 'essencetaping':
                 case 'aethertaping':
@@ -27,6 +28,7 @@ class Marker {
                 case 'normal_mobs':
                 case 'elite_mobs':
                 case 'heroic_mobs':
+                case 'worth_for_money_mobs':
                 case 'legendary_mobs':
                 case 'essencetaping':
                 case 'aethertaping':

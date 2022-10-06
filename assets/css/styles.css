@@ -1648,10 +1648,16 @@ button.full-popup-width {
     padding-top: 33px;
 
 }
+.worth_for_money_mobs {
+    background: url(../images/icons/nameless.png) no-repeat;
+    background-position-x:18px;
+    padding-top: 10px;
+}
 .normal_mobs,
 .elite_mobs,
 .heroic_mobs,
-.legendary_mobs {
+.legendary_mobs,
+.worth_for_money_mobs {
     padding-left: 100px;
     padding-right: 200px;
     margin-top: -20px;
@@ -1668,4 +1674,8 @@ button.full-popup-width {
     font-family: Tahoma,Verdana,Helvetica,sans-serif;
     font-style: normal;
     font-weight: bold;
+}
+
+.mob-screenshot{
+    width:300px;
 }
