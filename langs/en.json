@@ -1632,5 +1632,21 @@
   "map.elite_mobs.flame_tear_brerkun_1.name": "Flame Tear Brerkun",
   "map.elite_mobs.flame_tear_brerkun_1.desc": "<img class=\"mob-screenshot\" src=\"assets/images/mob/flame_tear_brerkun.jpg\"><br/> Name : Flame Tear Brerkun <br/>Level : 50<br/>HP : 32949<br/>Respawn time after server reset : 12 to 16 hours <br/>Respawn time : 24 to 32 hours <br/>Links to mob : <a target=\"_blank\" href=\"https://aioncodex.com/usc/npc/251017\">Aion Codex</a> <a target=\"_blank\" href=\"http://aidb.ru/?aion=npc_info&id=251017\">AiDB</a>",
   "map.legendary_mobs.menotios_1.name": "Menotios",
-  "map.legendary_mobs.menotios_1.desc": "<img class=\"mob-screenshot\" src=\"assets/images/mob/menotios.jpg\"><br/> Name : Menotios <br/>Level : 51<br/>HP : 4418354<br/>Respawn time after server reset : 12 to 16 hours <br/>Respawn time : 25 to 33 hours <br/>Links to mob : <a target=\"_blank\" href=\"https://aioncodex.com/usc/npc/251001\">Aion Codex</a> <a target=\"_blank\" href=\"http://aidb.ru/?aion=npc_info&id=251001\">AiDB</a>"
+  "map.legendary_mobs.menotios_1.desc": "<img class=\"mob-screenshot\" src=\"assets/images/mob/menotios.jpg\"><br/> Name : Menotios <br/>Level : 51<br/>HP : 4418354<br/>Respawn time after server reset : 12 to 16 hours <br/>Respawn time : 25 to 33 hours <br/>Links to mob : <a target=\"_blank\" href=\"https://aioncodex.com/usc/npc/251001\">Aion Codex</a> <a target=\"_blank\" href=\"http://aidb.ru/?aion=npc_info&id=251001\">AiDB</a>",
+  "map.essencetaping.wintermellow480.name": "480 - Wintermellow",
+  "map.essencetaping.wintermellow480.desc": "480 - Wintermellow",
+  "map.essencetaping.olive_fuzz480.name": "480 - Olive Fuzz",
+  "map.essencetaping.olive_fuzz480.desc": "480 - Olive Fuzz",
+  "map.essencetaping.euphorbia485.name": "485 - Euphorbia",
+  "map.essencetaping.euphorbia485.desc": "485 - Euphorbia",
+  "map.essencetaping.wingleaf_log485.name": "485 - Wingleaf Log",
+  "map.essencetaping.wingleaf_log485.desc": "485 - Wingleaf Log",
+  "map.essencetaping.ferronite490.name": "490 - Ferronite",
+  "map.essencetaping.ferronite490.desc": "490 - Ferronite",
+  "map.essencetaping.solarium490.name": "490 - Solarium",
+  "map.essencetaping.solarium490.desc": "490 - Solarium",
+  "map.essencetaping.turmaline495.name": "495 - Turmaline",
+  "map.essencetaping.turmaline495.desc": "495 - Turmaline",
+  "map.aethertaping.aphetan_aether480.name": "480 - Aphetan Aether",
+  "map.aethertaping.aphetan_aether480.desc": "480 - Aphetan Aether"
 }
