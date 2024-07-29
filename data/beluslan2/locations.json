@@ -6237,155 +6237,155 @@
       },
       {
         "color": "white",
-        "key": "egrasi345",
+        "key": "egrasi_log345",
         "locations": [
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.4759953125,
             "y": 14.02766515625
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.6158890625,
             "y": 15.01274578125
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -26.2100015625,
             "y": 14.1989278125
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.649034375,
             "y": 10.59401796875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.137015625,
             "y": 14.95740703125
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.3444609375,
             "y": 12.14183609375
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.1993421875,
             "y": 13.087081875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.625109375,
             "y": 18.3583265625
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -24.7191078125,
             "y": 15.6983
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -24.8857859375,
             "y": 15.13414953125
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.28213125,
             "y": 15.790871875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.0468234375,
             "y": 16.903796875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -26.324365625,
             "y": 14.940169375
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.829246875,
             "y": 16.253396875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -26.0310453125,
             "y": 14.72762296875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.4738078125,
             "y": 11.2145490625
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -26.682159375,
             "y": 13.962194375
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.8960984375,
             "y": 16.8197921875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.36455,
             "y": 11.81639859375
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -26.32746875,
             "y": 13.466835
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -28.2741890625,
             "y": 15.0943965625
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.9869625,
             "y": 12.03165046875
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.3195203125,
             "y": 15.66978125
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.7671015625,
             "y": 13.675594375
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -26.497940625,
             "y": 16.3711734375
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.376403125,
             "y": 12.88195328125
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.308396875,
             "y": 17.5536953125
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.831328125,
             "y": 17.555265625
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -25.2377515625,
             "y": 16.7130859375
           },
           {
-            "text": "egrasi345",
+            "text": "egrasi_log345",
             "x": -27.9296875,
             "y": 11.842440625
           }
@@ -7329,40 +7329,28 @@
       },
       {
         "color": "white",
-        "key": "huge_drenite400",
+        "key": "drenite400",
         "locations": [
           {
-            "text": "huge_drenite400",
+            "text": "drenite400",
             "x": -38.8243140625,
             "y": 16.230340625
           },
           {
-            "text": "huge_drenite400",
+            "text": "drenite400",
             "x": -37.65205,
             "y": 16.1961421875
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "huge_drenite400",
-        "locations": [
+          },
           {
-            "text": "huge_drenite400",
+            "text": "drenite400",
             "x": -11.308608125,
             "y": 25.2232578125
           },
           {
-            "text": "huge_drenite400",
+            "text": "drenite400",
             "x": -12.0489034375,
             "y": 21.0121359375
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "drenite400",
-        "locations": [
+          },
           {
             "text": "drenite400",
             "x": -29.0097296875,
@@ -8067,7 +8055,7 @@
       },
       {
         "color": "white",
-        "key": "huge_korie_log410",
+        "key": "korie_log410",
         "locations": [
           {
             "text": "huge_korie_log410",
@@ -8078,13 +8066,7 @@
             "text": "huge_korie_log410",
             "x": -17.7150765625,
             "y": 9.8851728125
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "korie_log410",
-        "locations": [
+          },
           {
             "text": "korie_log410",
             "x": -17.3362546875,
@@ -8264,24 +8246,18 @@
       },
       {
         "color": "white",
-        "key": "huge_prolix415",
+        "key": "prolix415",
         "locations": [
           {
-            "text": "huge_prolix415",
+            "text": "prolix415",
             "x": -27.3415546875,
             "y": 5.230863125
           },
           {
-            "text": "huge_prolix415",
+            "text": "prolix415",
             "x": -27.896215625,
             "y": 5.63729484375
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "prolix415",
-        "locations": [
+          },
           {
             "text": "prolix415",
             "x": -27.75724375,
@@ -9004,21 +8980,15 @@
       },
       {
         "color": "white",
-        "key": "huge_corundum450",
+        "key": "corundum450",
         "locations": [
           {
-            "text": "huge_corundum450",
+            "text": "corundum450",
             "x": -38.0712515625,
             "y": 33.3800625
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "huge_corundum450",
-        "locations": [
+          },
           {
-            "text": "huge_corundum450",
+            "text": "corundum450",
             "x": -7.48086078125,
             "y": 29.9363015625
           }
@@ -9207,705 +9177,705 @@
       },
       {
         "color": "white",
-        "key": "malevite460",
+        "key": "malevite_miasma460",
         "locations": [
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -44.831596875,
             "y": 36.122115625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.7877609375,
             "y": 42.2680203125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -11.20215796875,
             "y": 33.051925
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.53755625,
             "y": 29.117353125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -25.3772234375,
             "y": 32.3170515625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -38.6538703125,
             "y": 31.0918890625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.7917296875,
             "y": 35.4748234375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -23.434309375,
             "y": 33.7066734375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -39.801884375,
             "y": 43.5044328125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -26.183440625,
             "y": 33.0321953125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.8521046875,
             "y": 41.934371875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.9255671875,
             "y": 44.0254671875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -44.4026609375,
             "y": 34.9439703125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -37.0443109375,
             "y": 42.5213859375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.3835796875,
             "y": 30.9659421875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.35085015625,
             "y": 30.0797125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.241171875,
             "y": 33.2413484375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -38.9783890625,
             "y": 43.270928125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -39.8906359375,
             "y": 34.908234375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -39.751090625,
             "y": 35.58555625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -23.3963921875,
             "y": 33.0211828125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -22.6096828125,
             "y": 37.5713953125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -21.9472640625,
             "y": 36.624915625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.6593328125,
             "y": 37.2477875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -12.5844859375,
             "y": 32.8419640625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.1387859375,
             "y": 35.047309375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.81192390625,
             "y": 34.559403125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -11.5439596875,
             "y": 30.1964625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.44786359375,
             "y": 34.14421875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.053771875,
             "y": 32.461959375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.7549890625,
             "y": 40.2718734375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.321278125,
             "y": 38.4749453125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -8.0143384375,
             "y": 31.0856671875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -36.490115625,
             "y": 38.7966765625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.7021296875,
             "y": 31.754215625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -36.8508109375,
             "y": 36.0067140625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -23.5151078125,
             "y": 40.04625625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.2399171875,
             "y": 30.657575
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -29.071015625,
             "y": 29.5406453125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -8.58259015625,
             "y": 33.8191609375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -44.2996515625,
             "y": 41.2666546875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.4297453125,
             "y": 32.8307421875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.6452875,
             "y": 29.970159375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.5097078125,
             "y": 31.2868125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -11.345891875,
             "y": 35.791846875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.6083453125,
             "y": 31.9750390625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -28.0614453125,
             "y": 32.833878125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.318615625,
             "y": 40.845359375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.033321875,
             "y": 29.890515625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.43581296875,
             "y": 33.3694984375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.3451953125,
             "y": 41.0289078125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.26771828125,
             "y": 36.266784375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.18563265625,
             "y": 34.8604578125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -45.281059375,
             "y": 35.5843734375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.05362515625,
             "y": 36.8326109375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -37.1763953125,
             "y": 36.58044375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.2595484375,
             "y": 29.62359375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.119834375,
             "y": 33.10588125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -34.6171109375,
             "y": 37.930503125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.6976703125,
             "y": 42.506565625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -21.9586875,
             "y": 34.57909375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -27.2885359375,
             "y": 34.873271875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.0547109375,
             "y": 33.3568109375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.23918125,
             "y": 39.6430390625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -24.16763125,
             "y": 30.640121875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -25.89231875,
             "y": 35.2031859375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -8.98313046875,
             "y": 33.794884375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -35.4171140625,
             "y": 38.338096875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -24.61005625,
             "y": 32.228240625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.17936421875,
             "y": 35.859375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.422875,
             "y": 32.9885328125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -27.64010625,
             "y": 29.02294375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -27.4984546875,
             "y": 37.120178125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -37.7590796875,
             "y": 42.0544171875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -27.0309546875,
             "y": 35.374725
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -22.977946875,
             "y": 30.5584796875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -14.3518896875,
             "y": 32.526496875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -37.985603125,
             "y": 33.6945875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -45.2345921875,
             "y": 34.3413578125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -27.1902046875,
             "y": 30.89706875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -24.06539375,
             "y": 38.76890625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -14.64330390625,
             "y": 32.09959375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -8.7432184375,
             "y": 34.289046875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.96899375,
             "y": 40.856765625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -26.98941875,
             "y": 32.9927140625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.2422484375,
             "y": 29.6699328125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -23.2364484375,
             "y": 36.1812515625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -14.17177671875,
             "y": 31.0819109375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -44.35550625,
             "y": 37.0339734375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -26.82410625,
             "y": 32.2299765625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.62053109375,
             "y": 33.16344375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -26.7753921875,
             "y": 28.9844890625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -28.8276171875,
             "y": 36.2063109375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -13.29126359375,
             "y": 32.0227578125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -38.7942921875,
             "y": 43.8665921875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -12.451300625,
             "y": 30.035521875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.0783203125,
             "y": 32.199546875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.6907609375,
             "y": 29.81718125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -26.0574265625,
             "y": 34.0417671875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.716796875,
             "y": 28.937440625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -8.8229503125,
             "y": 31.541371875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.7556109375,
             "y": 29.908271875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.39928125,
             "y": 43.846790625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -36.5941546875,
             "y": 34.7105796875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -24.3513609375,
             "y": 32.9506421875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -22.931675,
             "y": 38.1596953125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -28.3993078125,
             "y": 34.939540625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -23.84506875,
             "y": 31.6152671875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -24.5866140625,
             "y": 36.7818953125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.1899796875,
             "y": 33.4653625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.0117765625,
             "y": 31.9194265625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -40.9581265625,
             "y": 40.987915625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -27.5873296875,
             "y": 31.996321875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.5980609375,
             "y": 30.471221875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.51846796875,
             "y": 30.99449375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -39.109771875,
             "y": 45.593975
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.5502615625,
             "y": 32.799965625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -45.9538390625,
             "y": 36.939815625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -25.6266453125,
             "y": 30.0211578125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -37.8196828125,
             "y": 34.9392015625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -44.688534375,
             "y": 35.26899375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -43.3122671875,
             "y": 41.807815625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -41.6635703125,
             "y": 34.116478125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -44.1424671875,
             "y": 35.058903125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.942071875,
             "y": 31.4492
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -24.7597453125,
             "y": 34.48823125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -39.90915625,
             "y": 43.1580734375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -38.1682390625,
             "y": 44.8755265625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -13.35431484375,
             "y": 29.8251859375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -45.71595,
             "y": 34.82448125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -9.05584046875,
             "y": 31.931996875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -11.03464984375,
             "y": 31.5248375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -42.6847609375,
             "y": 43.1091390625
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -16.69725,
             "y": 31.3849109375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -10.04622171875,
             "y": 31.4030359375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -22.9165046875,
             "y": 31.6104875
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -39.044540625,
             "y": 32.5162125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -36.300209375,
             "y": 41.2124859375
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -8.279518125,
             "y": 31.24898125
           },
           {
-            "text": "malevite460",
+            "text": "malevite_miasma460",
             "x": -15.03648375,
             "y": 33.3243484375
           }
@@ -9913,24 +9883,18 @@
       },
       {
         "color": "white",
-        "key": "huge_hoca470",
+        "key": "hoca470",
         "locations": [
           {
-            "text": "huge_hoca470",
+            "text": "hoca470",
             "x": -24.3759859375,
             "y": 38.4948609375
           },
           {
-            "text": "huge_hoca470",
+            "text": "hoca470",
             "x": -27.1794859375,
             "y": 37.6554984375
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "hoca470",
-        "locations": [
+          },
           {
             "text": "hoca470",
             "x": -25.17084375,
@@ -10105,22 +10069,6 @@
             "text": "hoca470",
             "x": -23.2026875,
             "y": 36.7961265625
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "huge_nanyu_log480",
-        "locations": [
-          {
-            "text": "huge_nanyu_log480",
-            "x": -39.6903921875,
-            "y": 43.2349703125
-          },
-          {
-            "text": "huge_nanyu_log480",
-            "x": -38.513790625,
-            "y": 43.6842953125
           }
         ]
       },
@@ -11037,6 +10985,16 @@
         "locations": [
           {
             "text": "nanyu_log480",
+            "x": -39.6903921875,
+            "y": 43.2349703125
+          },
+          {
+            "text": "nanyu_log480",
+            "x": -38.513790625,
+            "y": 43.6842953125
+          },
+          {
+            "text": "nanyu_log480",
             "x": -44.66055625,
             "y": 35.1521640625
           },
@@ -11778,21 +11736,15 @@
       },
       {
         "color": "white",
-        "key": "huge_elatrite495",
+        "key": "elatrite495",
         "locations": [
           {
-            "text": "huge_elatrite495",
+            "text": "elatrite495",
             "x": -40.6723828125,
             "y": 33.3197015625
-          }
-        ]
-      },
-      {
-        "color": "white",
-        "key": "huge_elatrite495",
-        "locations": [
+          },
           {
-            "text": "huge_elatrite495",
+            "text": "elatrite495",
             "x": -15.19219015625,
             "y": 33.1429359375
           }
