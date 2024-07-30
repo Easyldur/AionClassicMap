@@ -1,0 +1,106 @@
+[
+  {
+    "color": "yellow",
+    "collectable": true,
+    "key": "elite_mobs",
+    "locations": [
+      {
+        "key": "irritated_queen_apona_1",
+        "x": -8.1741190625,
+        "y": 6.379825625
+      },
+      {
+        "key": "apsu_drakan_combat_sergeant_2",
+        "x": -9.63615796875,
+        "y": 43.2270515625
+      },
+      {
+        "key": "lake_sludger_3",
+        "x": -16.7711015625,
+        "y": 28.339178125
+      },
+      {
+        "key": "red_striped_leowasp__4",
+        "x": -26.2104125,
+        "y": 43.8985359375
+      },
+      {
+        "key": "big_beak_ventus_5",
+        "x": -25.484375,
+        "y": 18.1328125
+      },
+      {
+        "key": "big_beak_ventus_6",
+        "x": -25.8828125,
+        "y": 16.9921875
+      },
+      {
+        "key": "contaminated_crystal_spirit_7",
+        "x": -28.0413375,
+        "y": 30.94736875
+      },
+      {
+        "key": "brainwashed_mau_elite_technician_8",
+        "x": -30.8328125,
+        "y": 35.391490625
+      },
+      {
+        "key": "brainwashed_krall_petrified_combat_sergeant_9",
+        "x": -28.8266703125,
+        "y": 5.2404675
+      },
+      {
+        "key": "thornback_klawtara_10",
+        "x": -35.890625,
+        "y": 6.4765625
+      },
+      {
+        "key": "thornback_klawtara_11",
+        "x": -35.703125,
+        "y": 40.6171875
+      },
+      {
+        "key": "black_thorn_gavijolf_12",
+        "x": -32.7725484375,
+        "y": 16.1894734375
+      },
+      {
+        "key": "508th_search_captain_13",
+        "x": -35.453125,
+        "y": 25.0625
+      },
+      {
+        "key": "508th_search_captain_14",
+        "x": -35.1953125,
+        "y": 25.0625
+      },
+      {
+        "key": "508th_watch_captain_15",
+        "x": -38.3869546875,
+        "y": 20.0848296875
+      },
+      {
+        "key": "508th_watch_captain_16",
+        "x": -39.96909375,
+        "y": 28.1756421875
+      }
+    ]
+  },
+  {
+    "color": "red",
+    "collectable": true,
+    "key": "heroic_mobs",
+    "locations": [
+      {
+        "key": "grand_chieftain_shiraka_1",
+        "x": -30.641746875,
+        "y": 34.45296875
+      },
+      {
+        "key": "grand_chieftain_huuta_2",
+        "x": -25.5475578125,
+        "y": 3.423530625
+      }
+    ]
+  }
+]
